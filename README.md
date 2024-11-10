@@ -1,3 +1,5 @@
+Pablo Emilio Gómez Gómez - 1037613667 | Estudiante Tecnología en Desarrollo de Software
+
 EA 1. Maquetación web
  
 Esta es la primera evidencia de aprendizaje que debes entregar para hacer seguimiento a tu proceso. Con esta, se busca la integración teórica de los conceptos aprendidos en la unidad 1.
