@@ -1,0 +1,53 @@
+/* Estilos personalizados */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Agregar margen superior a las secciones para evitar que el título quede oculto por la barra de navegación fija */
+section {
+    padding-top: 80px;
+    /* Ajusta este valor si es necesario */
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Estilización para la foto de perfil */
+.foto-perfil {
+    width: 200px;
+    /* Ajusta el tamaño según lo que consideres proporcional */
+    height: auto;
+    border-radius: 50%;
+    /* Mantiene el formato redondeado */
+}
+
+/* Estilización para tablas */
+.table-bordered th,
+.table-bordered td {
+    text-align: left;
+    padding: 8px;
+}
+
+.table-bordered th {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Espaciado para evitar que la barra fija oculte el contenido */
+.fixed-top+div {
+    padding-top: 70px;
+}
